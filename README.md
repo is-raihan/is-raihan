@@ -1,76 +1,59 @@
-## Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-This is the place where I open-source stuff and break things :rofl:
+# Hey, I'm Raihan! 👋
+
+Welcome to my corner of the internet where I automate, debug, and break things (just to fix them better)! 😄
 
 ---
 
-### 🚀 About Me
-- Full Stack Tester | SQA Engineer with 1.6+ years of experience
-- Specialized in **Manual Testing** and **Automation Testing** (Playwright, Selenium)
-- Passionate about **API Testing**, **Performance Testing** (Postman, Axios, JMeter)
-- Currently learning **Flutter** and **Selesforce Admin**  
-- Ask me anything about **JavaScript/TypeScript**, **Python**, or **Playwright**  
-- **Fun Fact**: I :heart: **Explore ** and Writring Article .
----
-
-### 💼 What I'm Working On
-- Developing testing frameworks and automation solutions for enterprise applications
-- Contributing to open-source projects in the quality assurance and testing space
-- Enhancing my skills in cloud architecture and microservices
-- Breaking 
+## 🚀 About Me
+- **Automation Engineer** with 1.6+ years of experience in building robust testing and CI/CD pipelines
+- Skilled in **Automation Testing** (Playwright, Selenium, K6) and **Manual Testing**
+- Proficient in **CI/CD** workflows using **Jenkins**, **GitHub Actions**, and **GitLab CI**
+- Passionate about **API Testing** (Postman, Axios) and **Performance Testing** (K6, JMeter)
+- Currently exploring **Flutter**, **Salesforce Admin**, and cloud-native tools
+- **Ask me about**: JavaScript/TypeScript, Python, Playwright, or CI/CD setups
+- **Fun Fact**: I *love* debugging complex issues and learning new tech—it's my cardio! 🏃‍♂️
 
 ---
 
-<!-- BLOG-POST-LIST:END -->
+## 💼 What I'm Working On
+- Building scalable automation frameworks for web and API testing
+- Optimizing CI/CD pipelines for faster, reliable deployments
+- Contributing to open-source testing and automation projects
+- Diving deeper into performance testing and cloud-based testing solutions
+- Debugging (and breaking) things to make systems stronger 💪
 
 ---
 
-### 🔗 Connect with Me
-
+## 🔗 Connect with Me
 <p align="left">
-<a href="https://dev.to/raihankhan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="raihankhan" height="30" width="40" /></a>
-<a href="https://twitter.com/raihankhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raihankhan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/raihankhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raihankhan" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/4214976" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
-<a href="https://instagram.com/raihankhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raihankhan" height="30" width="40" /></a>
+  <a href="https://dev.to/raihankhan" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev.to" height="30" width="40" /></a>
+  <a href="https://twitter.com/raihankhan" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/raihankhan" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/4214976" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40" /></a>
+  <a href="https://instagram.com/raihankhan" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 </p>
 
 ---
 
-### 📫 Hire Me
+## 📫 Hire Me
 📧 Email: [isteyqq@gmail.com](mailto:isteyqq@gmail.com)
 
 ---
 
-### 🛠️ Tech Stack
-
-- **Playwright** - For automation testing
-- **Selenium WebDriver** - For manual and automated testing
-- **Postman** - For API testing
-- **Axios** - For API integration and testing
-- **JMeter** - For performance testing
-- **JavaScript/TypeScript** - For development
-- **React/Angular/Flask** - Frontend and backend development
-
----
-
-### ⚡ Fun Fact
-- I love to tinker with code and **break things** (responsibly, of course)!
-- Explore new thing .
+## 🛠️ Tech Stack
+- **Automation Testing**: Playwright, Selenium, K6
+- **CI/CD**: Jenkins, GitHub Actions, GitLab CI
+- **API Testing**: Postman, Axios
+- **Performance Testing**: K6, JMeter
+- **Languages**: JavaScript, TypeScript, Python
+- **Frameworks**: React, Angular, Flask
+- **Learning**: Flutter, Salesforce Admin, Cloud Architecture
 
 ---
 
+## ⚡ Fun Facts
+- I thrive on debugging gnarly bugs and turning chaos into clean code 🕵️‍♂️
+- Always chasing the next big thing in tech—learning is my superpower!
+- I break things responsibly to build them back stronger 💥
 
-
-
-<!-- 👋 Hi, I’m @is-raihan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-is-raihan/is-raihan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
