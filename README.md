@@ -4,19 +4,19 @@ This is the place where I open-source stuff and break things :rofl:
 ---
 
 ### 🚀 About Me
-- Full Stack Developer | SQA Engineer with 1.6+ years of experience
+- Full Stack Tester | SQA Engineer with 1.6+ years of experience
 - Specialized in **Manual Testing** and **Automation Testing** (Playwright, Selenium)
 - Passionate about **API Testing**, **Performance Testing** (Postman, Axios, JMeter)
-- Currently learning **Flutter** and **Go**  
-- Ask me anything about **JavaScript/TypeScript**, **Python**, or **React/Angular/Express/Flask**  
-- **Fun Fact**: I :heart: **dogs** and Xbox Gaming (GamerTag: [GKRXtreme](https://account.xbox.com/en-us/profile?gamertag=GKRXtreme))
-
+- Currently learning **Flutter** and **Selesforce Admin**  
+- Ask me anything about **JavaScript/TypeScript**, **Python**, or **Playwright**  
+- **Fun Fact**: I :heart: **Explore ** and Writring Article .
 ---
 
 ### 💼 What I'm Working On
 - Developing testing frameworks and automation solutions for enterprise applications
 - Contributing to open-source projects in the quality assurance and testing space
 - Enhancing my skills in cloud architecture and microservices
+- Breaking 
 
 ---
 
@@ -55,7 +55,7 @@ This is the place where I open-source stuff and break things :rofl:
 
 ### ⚡ Fun Fact
 - I love to tinker with code and **break things** (responsibly, of course)!
-- Gaming is my guilty pleasure — catch me online on Xbox as **GKRXtreme**.
+- Explore new thing .
 
 ---
 
